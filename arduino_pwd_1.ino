@@ -5,7 +5,7 @@
  * one side pin (either one) to ground
  * the other side pin to +5V
  * LED anode (long leg) attached to digital output 11
- * LED cathode (short leg) attached to ground
+ * LED cathode (short leg) attached to ground1
  
  */
 
